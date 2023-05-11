@@ -1,0 +1,7 @@
+5 - variant
+Dartda o'zgarmaslar qanday e'lon qilinadi va ularni nechta turi mavjud?
+
+dart tilida o'zgarmaslarni const yoki final kalit so'zlari orqali elon qilishimiz mumkun.
+const bilan berganimizda aniq qiymat berib ketishimiz kerak.
+final bilan berganimiz da elon qilganda bermasdan ketsak bo;ladi
+faqat undan keyin bir marta qiymat qabul qiladi.

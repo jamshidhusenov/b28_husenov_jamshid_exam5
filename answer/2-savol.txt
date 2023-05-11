@@ -1,0 +1,17 @@
+variant 5 .
+oop prinsiplari nechta ? Inheritance nima?
+
+OOP prinsiplari 4 ta :
+
+1 Polymorphism
+2 Encapsulation
+3 Abstraction
+4 Inheritance
+
+
+Inheritance - bu meros extends kalit so'zi orqali olinadi . Biz biror sinfdan meros olganimiz da
+Yuqoridagi sinf ota sinf pasti esa bola sinf deyiladi
+bola sinf ota sinfning barcha metodlari fildlarini o'z ichiga
+oladi . metodlari qayta override qilib yozilishi shart
+faqat bitta sinfdan extends olish mumkin.
+
