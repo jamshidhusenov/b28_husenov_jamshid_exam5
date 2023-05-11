@@ -4,7 +4,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const Page());
+
+  runApp(const MyApp()); // Bu yerga Page() ni qo'ysak 2 - page ochiladi
+  // Home dagi Ontap ishlamaydi .
 }
 
 class MyApp extends StatelessWidget {
